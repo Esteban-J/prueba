@@ -1,6 +1,7 @@
 {
   "name": "contador-app",
   "version": "1.0.0",
+  "description": "Contador en tiempo real con Node.js y Socket.io",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
